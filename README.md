@@ -6,7 +6,7 @@ This repository presents an analysis of an online retail dataset covering **2009
 
 The main goal of this analysis is to conduct **customer segmentation** to identify distinct groups based on purchasing patterns, alongside **churn analysis** to detect customers at risk of discontinuation. By achieving these objectives, this project provides stakeholders with actionable insights that can enhance targeted marketing efforts and improve customer retention strategies.
 
-![Power BI Dashboard Link](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/Customer-Segmentation-Dashboard.pdf)  
+- [Power BI Dashboard Link](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/Customer-Segmentation-Dashboard.pdf)  
 - [Data Cleaning & EDA File](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/OnlineRetail-DC.ipynb)
 
 You can access the dataset from these links:
