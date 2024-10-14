@@ -19,8 +19,7 @@ You can access the dataset from these links:
 The dataset used for this analysis was sourced from Kaggle and contains transactional data from an online retail store. It spans two fiscal years: 2009-2010 and 2010-2011.
 
 ### **Dataset Preview:**
-![Dataset Preview](https://github.com/YOURUSERNAME/YOURREPOSITORY/raw/main/YOURIMAGE.png)  
-<!-- Replace the URL with the actual path to your image on GitHub -->
+![Dataset Preview](https://github.com/NishaChandila/project-assets/blob/main/onlineretail-dataset.jpg?raw=true)  
 
 ### **Data Columns:**
 The dataset includes the following columns, each representing key attributes related to customer transactions:
@@ -97,4 +96,3 @@ Based on the customer segmentation and churn analysis, it is recommended to impl
 You can access the dataset from these links:
 - [2009-2010 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
 - [2010-2011 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
----
