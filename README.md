@@ -51,10 +51,10 @@ Customer segmentation was carried out to classify customers into different group
 
 Key highlights from the segmentation include:
 
-- **Customer Count by Segment**: The analysis shows that there are approximately 884K total customers, with 346K regular customers and 213K VIP customers.
+- **Customer Count by Segment**: The analysis shows that there are approximately 883K total customers, with 346K regular customers and 213K VIP customers.
 - **Churn Analysis**: The churn status indicates that 782K customers did not churn, while 101K customers were identified as churned.
-- **Revenue Insights**: The majority of the revenue came from the UK, showing the importance of this region for the business, while the total revenue for the period amounted to approximately $9.40M.
-- **RFM Score**: The average RFM score across all customers is 11.434, indicating a strong base of frequent, high-value customers.
+- **Revenue Insights**: The majority of the revenue came from the UK, showing the importance of this region for the business, while the total revenue for the period amounted to approximately $9M.
+- **RFM Score**: The average RFM score across all customers is 11, indicating a strong base of frequent, high-value customers.
 
 This segmentation provides actionable insights into customer behavior, allowing for more targeted marketing strategies, personalized offers, and a focus on high-value customer retention.
 
