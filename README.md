@@ -34,9 +34,6 @@ The dataset includes the following columns, each representing key attributes rel
 - **CustomerID**: A unique identifier assigned to each customer. This helps in tracking individual purchasing behavior.
 - **Country**: The country where the customer is located, allowing for geographical analysis of sales.
 
-### **Data Quality:**
-In preparing for the analysis, we conducted thorough data cleaning and preprocessing steps to ensure the reliability and accuracy of insights derived from this dataset.
-
 You can access the dataset from these links:
 - [2009-2010 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
 - [2010-2011 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
@@ -46,6 +43,8 @@ You can access the dataset from these links:
 ## **Executive Summary**
 
 This report presents an analysis of an online retail dataset collected from 2009 to 2011, containing over 1 million transactions. The dataset includes key details such as customer ID, invoice date, invoice number, product description, quantity, price, and country of transaction. Our primary objective was to segment customers based on their purchasing behavior and analyze churn rates to support business decisions aimed at improving customer retention and revenue growth.
+
+![Power BI Dashboard](https://github.com/NishaChandila/project-assets/blob/main/onlineretail1.PNG)
 
 ### **Customer Segmentation**
 
@@ -60,8 +59,7 @@ Key highlights from the segmentation include:
 
 This segmentation provides actionable insights into customer behavior, allowing for more targeted marketing strategies, personalized offers, and a focus on high-value customer retention.
 
-![Customer Segmentation Visualization](https://github.com/YOURUSERNAME/YOURREPOSITORY/raw/main/YOURIMAGE.png)  
-<!-- Replace this with the actual image URL for customer segmentation visualization -->
+![Customer Segmentation Visualization](https://github.com/NishaChandila/project-assets/blob/main/onlineretail2.PNG)  
 
 ---
 
@@ -83,6 +81,8 @@ To prepare for customer segmentation analysis, we conducted critical data cleani
    - **RFM Score**: Combined the scores for recency, frequency, and monetary value to create a composite RFM Score, allowing us to rank customers based on their engagement.
    - **Segmentation**: Categorized customers into segments such as Champions, Loyal Customers, At Risk, Hibernating, and Lost Customers based on their RFM Score, facilitating targeted marketing and engagement strategies.
 
+- [Data Cleaning & EDA File](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/OnlineRetail-DC.ipynb)
+
 ---
 
 ## **Recommendations**
@@ -91,10 +91,10 @@ Based on the customer segmentation and churn analysis, it is recommended to impl
 
 ---
 
-### **Links to Resources**
-- [Power BI Dashboard Link](https://github.com/YOURUSERNAME/YOURREPOSITORY/raw/main/YOURFILE.png)  
-- [Data Cleaning & EDA File](https://github.com/YOURUSERNAME/YOURREPOSITORY/raw/main/YOURFILE.png)
+- [Power BI Dashboard Link](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/Customer-Segmentation-Dashboard.pdf)  
+- [Data Cleaning & EDA File](https://github.com/NishaChandila/OnlineRetail-Customer-Segmentation/blob/main/OnlineRetail-DC.ipynb)
 
 You can access the dataset from these links:
 - [2009-2010 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
 - [2010-2011 Dataset](https://www.kaggle.com/datasets/sanlian/online-retail-dataset/data)
+---
